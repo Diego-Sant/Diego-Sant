@@ -17,7 +17,7 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   
-  <img align="right" alt="Guy dando joinha" height="150" src="https://i.pinimg.com/originals/74/bd/a8/74bda85c844656036c48898fd3bc20f7.gif">
+  <img align="right" alt="Programador médio" height="150" src="https://media.tenor.com/kSiC-0wGr4kAAAAM/monkey-technology.gif">
 </div>
 
 ##
