@@ -17,7 +17,7 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   
-  <img align="right" alt="Programador médio" height="150" src="https://media.tenor.com/kSiC-0wGr4kAAAAM/monkey-technology.gif">
+  <img align="right" alt="Programador médio" height="150" src="https://www.reactiongifs.com/wp-content/uploads/2012/11/typing.gif">
 </div>
 
 ##
