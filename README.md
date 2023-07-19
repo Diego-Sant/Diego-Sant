@@ -6,12 +6,12 @@
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Sant&layout=compact&theme=radical">
 </a>
 
-<div style="display: inline-block; margin: 2px"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TypeScript" height="40" width="43" src="https://img.icons8.com/?size=512&id=nCj4PvnCO0tZ&format=png">
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="NextJS" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
-  <img align="center" alt="NodeJs" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="NextJS" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
+  <img align="center" alt="NodeJs" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="MongoDB" height="40" width="20" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
